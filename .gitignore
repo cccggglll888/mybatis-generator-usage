@@ -1,6 +1,6 @@
 # 不包含的文件类型 #
 
-/bin/test/
+/bin/
 
 *.class
 
